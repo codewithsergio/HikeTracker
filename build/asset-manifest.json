@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1018a1a6.css",
+    "main.js": "/static/js/main.1b6a5bbe.js",
+    "static/js/787.f889eb41.chunk.js": "/static/js/787.f889eb41.chunk.js",
+    "static/media/traveltown.png": "/static/media/traveltown.ebff5cbdeb53d004631f.png",
+    "static/media/observatory.png": "/static/media/observatory.4ac3dde4c87b6afa349b.png",
+    "static/media/waterfall.png": "/static/media/waterfall.a3a363c7ce76eb8657a9.png",
+    "static/media/lookout.png": "/static/media/lookout.225c2361e2a8006f9aae.png",
+    "static/media/csunlibrary.png": "/static/media/csunlibrary.859c2bb017559510cc43.png",
+    "static/media/broad.png": "/static/media/broad.a568de088fd749f4d9ed.png",
+    "static/media/DelanoPark.png": "/static/media/DelanoPark.139a54f3e7f3d0805093.png",
+    "static/media/StarbucksA.png": "/static/media/StarbucksA.ab97164f956413cb0d03.png",
+    "static/media/RoyceHall.jpg": "/static/media/RoyceHall.0d45317117812e9878d2.jpg",
+    "static/media/JacarandaHall.jpg": "/static/media/JacarandaHall.460a831c4b09dee83cc8.jpg",
+    "static/media/cave.jpg": "/static/media/cave.a7f8454ffeae45cfc0be.jpg",
+    "index.html": "/index.html",
+    "main.1018a1a6.css.map": "/static/css/main.1018a1a6.css.map",
+    "main.1b6a5bbe.js.map": "/static/js/main.1b6a5bbe.js.map",
+    "787.f889eb41.chunk.js.map": "/static/js/787.f889eb41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1018a1a6.css",
+    "static/js/main.1b6a5bbe.js"
+  ]
+}
