@@ -1,0 +1,18 @@
+body {
+  background-color: #161616;
+}
+
+.app_body {
+  padding: 0px 7px 0px 7px;
+  max-width: 30rem;
+  margin: auto;
+}
+
+@media screen and (min-width: 1200px) {
+  .locationUIList {
+    display: grid;
+    position: relative;
+    right: 22.5rem;
+    grid-template-columns: 400px 400px 400px;
+  }
+}
