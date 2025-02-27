@@ -1,14 +1,14 @@
-import "./App.css";
+import "./css/App.css";
 import React, { useState } from "react";
-import Login from "./Login.js";
-import Header from "./Header";
-import Profile from "./Profile";
-import Location from "./Location";
+import Login from "./components/Login.js";
+import Header from "./components/Header";
+import Profile from "./components/Profile";
+import Location from "./components/Location";
 import info from "./data";
-import Feed from "./Feed";
-import DashedLine from "./DashedLine";
-import Leaderboard from "./Leaderboard";
-import Categories from "./Categories";
+import Feed from "./components/Feed";
+import DashedLine from "./components/DashedLine";
+import Leaderboard from "./components/Leaderboard";
+import Categories from "./components/Categories";
 import { useStateValue } from "./StateProvider";
 
 function App() {

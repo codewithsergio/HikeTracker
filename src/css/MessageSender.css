@@ -1,0 +1,81 @@
+.messageSender {
+  display: flex;
+  margin-top: 30px;
+  flex-direction: row;
+  background-color: #232323;
+  border-radius: 15px;
+  /* box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.75); */
+  margin: auto auto 1rem auto;
+  /* border-bottom: 1px solid #eff2f5; */
+  padding: 15px;
+}
+
+.pic {
+  margin: auto;
+}
+
+.messageSender > form {
+  flex: 1;
+  display: flex;
+}
+
+.messageSender > form > input {
+  outline-width: 0;
+  border: none;
+  padding: 5px 20px;
+  margin: 0 10px;
+  border-radius: 999px;
+  background-color: #4d4d4d;
+  color: white;
+}
+
+.messageSender > form > button {
+  font-weight: 700;
+  padding: 1rem;
+  width: fit-content;
+  align-self: center;
+  background-color: #57bb14;
+  border: 2px solid #57bb14;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 0.5rem;
+}
+
+.messageSender > form > button:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #69ec18;
+  border: 2px solid #69ec18;
+}
+
+.messageSender__input {
+  flex: 1;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  font-weight: 400;
+  color: rgb(167, 167, 167);
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  font-weight: 400;
+  color: rgb(167, 167, 167);
+  color: red;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  font-weight: 400;
+  color: rgb(167, 167, 167);
+  color: red;
+}

@@ -1,0 +1,31 @@
+.login {
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  height: 100vh;
+  color: black;
+}
+
+.loginBox{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid gray;
+  padding: 2rem;
+  margin: 10rem auto auto auto;
+}
+
+.login > .loginBox > button {
+  width: 300px;
+  background-color: rgb(131, 189, 248);
+  color: #eff2f5;
+  font-weight: 600;
+  margin-top: 3rem;
+}
+
+.login > .loginBox > button:hover {
+  border: none;
+  background-color: rgb(235, 235, 235);
+  color: dodgerblue;
+}
